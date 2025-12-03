@@ -1,8 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&height=300&section=header&text=Taek-99)
 
+<!-- <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
+    <div style="margin: 5px; font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+      Junior 개발자입니다. <br>
+      팀워크를 열심히 챙깁니다. <br>  
+      끊임없이 공부합니다. <br>
+      빠른 실행력이 장점입니다. 
+    </div>
+    
+</div> -->
 
 <div align= "center">
-## Tech Stack
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2>  
+  
 **Language**
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
