@@ -27,14 +27,14 @@
 **Library**
 <div>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=threejs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white"/>
 </div>
 <br/>
 
 **FrameWork**
 <div>
     <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>  
 </div>
